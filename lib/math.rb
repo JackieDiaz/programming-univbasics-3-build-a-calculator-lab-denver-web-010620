@@ -24,6 +24,6 @@ modo
 end
 
 def square_root(num)
-power = sqrt(num)
+power = Math.sqrt(num)
 power
 end
