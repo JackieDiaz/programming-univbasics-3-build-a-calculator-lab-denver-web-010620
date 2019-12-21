@@ -24,6 +24,6 @@ modo
 end
 
 def square_root(num)
-power = 
+power = num ** 
 power
 end
