@@ -4,26 +4,26 @@ sum
 end
 
 def subtraction(num1, num2)
-subtract = a - b 
+subtract = num1 - num2
 subtract
 end
 
 def division(num1, num2)
-divide = a / b 
+divide = num1 / num2
 divide
 end
 
 def multiplication(num1, num2)
-times = a * b
+times = num1 * num2
 times
 end
 
 def modulo(num1, num2)
-modo = a % b
+modo = num1 % num2
 modo
 end
 
 def square_root(num)
-power = a**
+power = num**
 power
 end
