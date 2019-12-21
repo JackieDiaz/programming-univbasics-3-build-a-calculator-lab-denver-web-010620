@@ -19,7 +19,8 @@ times
 end
 
 def modulo(num1, num2)
-
+modo = a % b
+modo
 end
 
 def square_root(num)
